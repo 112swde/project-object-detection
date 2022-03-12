@@ -2,7 +2,6 @@
 img = "";
 status = "";
 objects = [];
-percent = 0;
 
 function setup()
 {
